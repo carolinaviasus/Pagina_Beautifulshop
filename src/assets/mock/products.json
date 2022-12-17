@@ -1,0 +1,284 @@
+[
+    {
+        "id":1,
+        "image":"../../../assets/image/cbd_body_oil.jpeg",
+        "name":"CBD Body Oil",
+        "category": "Wake Sleep",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "price": 24.00,
+        "productSize":[
+            "small",
+            "medium",
+            "large"
+        ],
+        "productDetails":[
+            {
+                "title":"Product description",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ],
+                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
+            },
+            {
+                "title":"Additional Info",
+                "list":[
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
+                ],
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
+            },
+            {
+                
+                "title":"Shipping",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ]
+            }
+        ]
+        
+    },
+    {
+        "id":2,
+        "image":"../../../assets/image/cbd_massage_oil.jpeg",
+        "name":"CBD Massage Oil",
+        "category": "Wake Sleep",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "price": 28.00,
+        "productSize":[
+            "20 ml",
+            "50 ml",
+            "100 ml"
+        ],
+        "productDetails":[
+            {
+                "title":"Product description",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ],
+                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
+            },
+            {
+                "title":"Additional Info",
+                "list":[
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
+                ],
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
+            },
+            {
+                
+                "title":"Shipping",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ]
+            }
+        ]
+        
+    },
+    {
+        "id":3,
+        "image":"../../../assets/image/cbd_oil_tenture.jpeg",
+        "name":"CBD Oil Tenture",
+        "category": "Wake",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "price": 29.99,
+        "productSize":[
+            "30 ml",
+            "150 ml"
+        ],
+        "productDetails":[
+            {
+                "title":"Product description",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ],
+                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
+            },
+            {
+                "title":"Additional Info",
+                "list":[
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
+                ],
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
+            },
+            {
+                
+                "title":"Shipping",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ]
+            }
+        ]
+        
+    },
+    {
+        "id":4,
+        "image":"../../../assets/image/cbd_oil_vanilla_tinture.jpeg",
+        "name":"CBD Oil Vanilla Tinture",
+        "category": "Wake",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "price": 35.00,
+        "productSize":[
+            "30 ml",
+            "150 ml"
+        ],
+        "productDetails":[
+            {
+                "title":"Product description",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ],
+                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
+            },
+            {
+                "title":"Additional Info",
+                "list":[
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
+                ],
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
+            },
+            {
+                
+                "title":"Shipping",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ]
+            }
+        ]
+        
+    },
+    {
+        "id":5,
+        "image":"../../../assets/image/cbd_skin_care.jpeg",
+        "name":"CBD Skin Care",
+        "category":"Sleep",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "price": 12.00,
+        "productSize":[
+            "30 ml",
+            "150 ml"
+        ],
+        "productDetails":[
+            {
+                "title":"Product description",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ],
+                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
+            },
+            {
+                "title":"Additional Info",
+                "list":[
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
+                ],
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
+            },
+            {
+                
+                "title":"Shipping",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ]
+            }
+        ]
+    },
+    {
+        "id":6,
+        "image":"../../../assets/image/cdb_tea_pounch.jpeg",
+        "name":"CBD Tea Pounch",
+        "category": "Focus",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "price": 20.00,
+        "productSize":[
+            "30 ml",
+            "150 ml"
+        ],
+        "productDetails":[
+            {
+                "title":"Product description",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ],
+                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
+            },
+            {
+                "title":"Additional Info",
+                "list":[
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
+                ],
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
+            },
+            {
+                
+                "title":"Shipping",
+                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
+                "list":[
+                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
+                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
+                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
+                ]
+            }
+        ]
+    }
+]

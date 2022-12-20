@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-products',
@@ -8,11 +8,32 @@ import { Component } from '@angular/core';
 export class ProductsComponent {
 
   constructor(){}
-  tab = {
-    name:'wake'
+ 
+  // constructor(private productService :ProductsService) { }
+  // headerText: string =''
+  tabs : any =[{
+    id :1,
+    name:'Bolsos',
+    active :false
+  },
+  {
+    id :2,
+    name:'Maletas',
+    active :false
+  },
+   
+]
+
+  ngOinit(): void{
   }
 
-  ngOinit(){
-
+  handleTabClick($event : any,index:number){
+    console.log($event)
+    for(let tab of this.tabs){
+      tab.active = false
+    }
+    this.tabs[index].active =true;
+    console.log(this.tabs[index])
   }
+  
 }

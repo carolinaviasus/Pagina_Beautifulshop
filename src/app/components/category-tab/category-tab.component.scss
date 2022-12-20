@@ -2,17 +2,18 @@
 
 .category-tab-container{
     padding: $main-padding $secondary-padding;
-    background: black;
-    // width: fit-content;
-    // color: $blackish-color;
-    // border: 1px solid $secondary-color;
-    // box-shadow: $box-shadow;
-    // font-size: $font-size16;
-    // &:hover{
-    //     cursor: pointer;
-    //     border-color: $primary-color;
-    //     color: $primary-color;
-    //     transform: translateY(5px);
-    //     transition: 1s all;
-    // }
+    background: $boton-prod-color;
+    width: fit-content;
+    color: $blackish-color;
+    border: 1px solid $boton-prod-color;
+    box-shadow: $box-shadow;
+    font-size: $font-size36;
+    border-radius: 20px;
+    &:hover{
+        cursor: pointer;
+        background: $boton-prod-color;
+        color: $boton-hover;
+        transform: translateY(5px);
+        transition: 1s all;
+    }
 }

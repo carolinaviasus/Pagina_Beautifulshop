@@ -1,7 +1,7 @@
 
 <div class="product-container">
     <div class="product-header-section">
-       <p class="title">Productos</p> 
+       <p class="title">  Productos - {{headerText}}</p> 
         <div class="category-section">
             <app-category-tab *ngFor="let tab of tabs; let i =index" (tabAction)="handleTabClick($event, i)" [tab]="tab"></app-category-tab>
         </div>

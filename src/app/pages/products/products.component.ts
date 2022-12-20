@@ -10,7 +10,7 @@ export class ProductsComponent {
   constructor(){}
  
   // constructor(private productService :ProductsService) { }
-  // headerText: string =''
+  headerText: string =''
   tabs : any =[{
     id :1,
     name:'Bolsos',
@@ -33,7 +33,7 @@ export class ProductsComponent {
       tab.active = false
     }
     this.tabs[index].active =true;
-    console.log(this.tabs[index])
+    this.headerText = $event.name
   }
   
 }

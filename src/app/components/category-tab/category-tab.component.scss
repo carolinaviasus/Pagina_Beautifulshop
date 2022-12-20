@@ -2,9 +2,9 @@
 
 .category-tab-container{
     padding: $main-padding $secondary-padding;
-    background: $boton-prod-color;
+    background: $white-color;
     width: fit-content;
-    color: $blackish-color;
+    color: $boton-hover;
     border: 1px solid $boton-prod-color;
     box-shadow: $box-shadow;
     font-size: $font-size36;
@@ -12,8 +12,19 @@
     &:hover{
         cursor: pointer;
         background: $boton-prod-color;
-        color: $boton-hover;
+        color: $blackish-color;
         transform: translateY(5px);
         transition: 1s all;
+    }
+}
+
+.activeTab{
+    background: $boton-prod-color;
+    color: $boton-hover;
+    font-size: 900;
+    border-color: $primary-color;
+    &:hover{
+    //     color :$black-color;
+        transform: translateY(0px);
     }
 }

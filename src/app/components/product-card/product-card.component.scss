@@ -1,0 +1,89 @@
+@import '/src/themes/themes.scss';
+
+.product-card{
+    // cursor: pointer;
+    background-color: $white-color;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    box-shadow: 1px 10px 10px 2px rgba(0, 0, 0, 0.1);
+    border: 6px solid transparent;
+    border-radius: 5px;
+
+    img{
+       width: 80%;
+       height: 500px; 
+    }
+    
+    .card-content{
+        margin-top: 32px;
+        
+
+        .productName{
+            font-size: $font-size24;
+            color: $blackish-color;
+            font-weight: 700;
+            color: #1a202c;          
+        }
+        // .productDescription{
+        //     font-size: $font-size18;
+        //     color: $greyish-color;
+        // }
+        .bottom{
+            width: 100%;
+            height: 45px;
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 1rem 2rem;
+
+            .btn{
+                border: none;
+                outline: 0;
+                cursor: pointer;
+                border-radius: 5px;
+            }      
+            button{
+                background-color: $boton-car;
+                max-width: 250px;
+                width: 100%;
+                margin: 0 auto;
+                font-size: $font-size22;
+                color: white;
+                font-weight: 600;
+                &:hover{
+                    cursor: pointer;
+                    background: $boton-carh;
+                    color: $black-color;
+                    transform: translateY(5px);
+                    transition: 1s all;
+                }
+            }
+            div{
+                background-color: $boton-vermas;
+                display: grid;
+                align-items: center;
+                text-align: center;
+                margin-left: -2rem;
+                border-radius: 5px;
+                color: white;
+                font-weight: 700;
+                font-size: $font-size22;
+                cursor: pointer;
+                &:hover{
+                    cursor: pointer;
+                    background: $boton-vermas;
+                    color: $black-color;
+                    transform: translateY(5px);
+                    transition: 1s all;
+                }
+            }   
+        }
+          
+        .productPrice{
+            font-size: $font-size28;
+            font-weight: 800;
+            color: $price;            
+        }
+    }
+}

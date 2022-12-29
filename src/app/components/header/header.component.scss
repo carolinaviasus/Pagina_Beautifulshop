@@ -1,0 +1,24 @@
+@import '/src/themes/themes.scss';
+
+header{
+    background: $header-color;
+    padding: 0;
+    border-bottom: 1px solid $header-color;
+    .container{
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        a{
+            color: $header-letter;
+            &:hover{
+                cursor: pointer;
+                color: $header-letter-hover;
+                transform: translateY(5px);
+                transition: 1s all;
+            }
+        }
+    }
+   
+
+}
+

@@ -1,21 +1,20 @@
 <div class="details-container">
+    <p class="product-name"> {{singleProduct?.name}} </p>
     <div class="details-center">
-        <p class="product-name"> Bolso </p>
-        <p class="product-price"> 76.000</p>
+        <p class="product-price"> {{singleProduct?.price | number: '1.3-3'}}</p>
         <div class="grid">
-            <select class="selection" name="" id="">
-                <option value=""> Selecciona color</option>
-                <option value=""> Negro</option>
-                <option value=""> Rojo</option>
-                <option value=""> Lila</option>
+            <select class="selection" name="product-color" >
+                <option selected disabled hidden value=""> Selecciona color</option>
+                <option *ngFor="let item of singleProduct?.productSize" value="item">{{item}}</option>
             </select>
         </div>
 
         <div class="btn-add-cart">Añadir a mi carrito</div>
-    
-        <img src="../../../assets/image/bolso2.jpg" alt="product image">
+        <div class="picture-product">
+            <img src="{{singleProduct?.image}}" alt="product image">
+        </div>
     </div>
     <p class="tittle-descrip">Descripcion</p>
-    <p class="product-description">Este es un bolso con la descripcion </p>
+    <p class="product-description"> {{singleProduct?.description}} </p>
 
 </div>

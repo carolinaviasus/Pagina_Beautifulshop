@@ -5,7 +5,7 @@
         <p class="productPrice"> $ {{product.price | number: '1.3-3'}} </p>
         <div class="bottom">
             <button class="btn">Añadir a mi carrito</button>
-            <div class="btn2">Conoce mas</div>
+            <div (click)="productView(product.id)" class="btn2">Conoce mas</div>
         </div>
         <!-- <p class="productDescription">{{product.description}}</p> -->
         

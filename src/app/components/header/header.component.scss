@@ -1,24 +1,36 @@
 @import '/src/themes/themes.scss';
 
-header{
-    background: $header-color;
-    padding: 0;
-    border-bottom: 1px solid $header-color;
-    .container{
-        margin: 0 auto;
-        display: flex;
-        justify-content: space-between;
-        a{
+.container{
+    background-color: $header-color;  
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    .log{
+        cursor: pointer;
+    }
+    nav{
+        margin-right: 100px;
+        padding: 0px 60px 0px 60px;
+
+        a {
+            list-style: none;
+            text-decoration: none;
             color: $header-letter;
+            justify-content: space-between;
+            padding: 0px 25px 0px 25px;
+            font-size: $font-size54;
+            font-family: 'Roboto';
+            font-weight: $font-weig-500;
             &:hover{
                 cursor: pointer;
                 color: $header-letter-hover;
                 transform: translateY(5px);
                 transition: 1s all;
-            }
+            }            
         }
     }
-   
-
 }
+   
 

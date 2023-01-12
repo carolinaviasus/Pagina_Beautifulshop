@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CartService } from 'src/app/services/cart/cart.service';
+import { ProductsService } from 'src/app/services/products.service';
 import { Cart } from 'src/app/shared/Cart';
 import { CartItem } from 'src/app/shared/CartItem';
 
@@ -11,6 +12,7 @@ import { CartItem } from 'src/app/shared/CartItem';
 export class CartPageComponent implements OnInit {
   cart!:Cart;
   constructor(private cartService: CartService) { 
+
     this.setCart();
   }
   ngOnInit(): void {

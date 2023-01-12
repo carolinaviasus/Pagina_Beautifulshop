@@ -1,7 +1,7 @@
 <div class="details-container">
     <p class="product-name"> {{singleProduct?.name}} </p>
     <div class="details-center">
-        <p class="product-price"> {{singleProduct?.price | number: '1.3-3'}}</p>
+        <p class="product-price"> COP {{singleProduct?.price | number: '1.3-3'}}</p>
         <div class="grid">
             <select class="selection" name="product-color" >
                 <option selected disabled hidden value=""> Selecciona color</option>
@@ -14,7 +14,7 @@
             <img src="{{singleProduct?.image}}" alt="product image">
         </div>
     </div>
-    <p class="tittle-descrip">Descripcion</p>
+    <p class="tittle-descrip">Descripción</p>
     <p class="product-description"> {{singleProduct?.description}} </p>
 
 </div>

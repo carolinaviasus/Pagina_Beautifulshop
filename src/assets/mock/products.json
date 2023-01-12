@@ -2,49 +2,24 @@
     {
         "id":1,
         "image":"../../../assets/image/bolso1.jpg",
-        "name":"CAJITA MERRY",
+        "name":"CAJITA MERRY 💖",
         "category": "Bolsos",
-        "description": "CAJITA MERRY",
+        "description": [
+            "💚material sintético", 
+            "✨cadena doble uso",
+            "🧡broche de seguridad",
+            "✨detalles en costura",
+            "🤍Detalles dorados",
+            "✨cierre interno",
+            "💜variedad de colores"    
+        ],
         "price": 39.000,
         "productSize":[
-            "small",
-            "medium",
-            "large"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
+       
         
     },
     {
@@ -52,280 +27,119 @@
         "image":"../../../assets/image/bolso2.jpg",
         "name":"🌸CAJITA ANEU🌸",
         "category": "Bolsos",
-        "description": "",
+        "description": [
+            "🌸Material sintético",
+            "✨detalles dorados",
+            "🌸correa para cruzar",
+            "✨cierre externo",
+            "🌸lo puedes llevar de mano",
+            "✨variedad de colores"
+        ],
         "price": 55.000,
         "productSize":[
-            "20 ml",
-            "50 ml",
-            "100 ml"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
-        
     },
     {
         "id":3,
         "image":"../../../assets/image/bolso3.jpg",
-        "name":"💖💛CAJITA VENETUS💖💛",
+        "name":"💛CAJITA VENETUS💛",
         "category": "Bolsos",
-        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
-        "price": 29.99,
-        "productSize":[
-            "30 ml",
-            "150 ml"
+        "description": [
+            "💛material sintético",
+            "💖correa para cruzar",
+            "💛manigueta de lujo",
+            "💖detalles dorados",
+            "💛soporte metálico",
+            "💖cierre interno",
+            "💛forro interno",
+            "✨variedad de colores"
         ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
-        ]
-        
+        "price": 29.900,
+        "productSize":[
+            "Negro",
+            "Rojo"
+        ]  
     },
     {
         "id":4,
         "image":"../../../assets/image/bolso4.jpg",
         "name":"💙CARTERA NIKOL-KORS",
         "category": "Bolsos",
-        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "description": [
+            "✨Material sintético de tapicería",
+            "🌸Cierre interno",
+            "✨cierre trasero",
+            "🌸detalles dorados",
+            "✨variedad de colores",
+            "INCLUYE MONEDERO"
+        ],
         "price": 55.00,
         "productSize":[
-            "30 ml",
-            "150 ml"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
-        
     },
     {
         "id":5,
         "image":"../../../assets/image/bolso5.jpg",
         "name":"CAJITA MARIETTA",
         "category":"Bolsos",
-        "description": ".",
+        "description": [    
+            "🎀 material sintético",
+            "🤍 correa para cruzar",
+            "🎀 manijas para llevar de mano",
+            "🤍 forro interno",
+            "🎀 cierre interno",
+            "🤍 Variedad de colores"
+        ],
         "price": 40.000,
         "productSize":[
-            "30 ml",
-            "150 ml"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
     },
     {
         "id":6,
         "image":"../../../assets/image/bolso6.jpg",
-        "name":"CAJITA MERRY",
+        "name":"💚CAJITA MERRY💚",
         "category": "Bolsos",
-        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...",
+        "description": [    
+            "💚 Material sintético",
+            "✨ Cadena doble uso",
+            "🧡 Broche de seguridad",
+            "✨ Detalles en costura",
+            "✨ Cierre interno",
+            "💜 Variedad de colores"
+        ],
         "price": 39.000,
         "productSize":[
-            "30 ml",
-            "150 ml"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
     },
     {
         "id":7,
         "image":"../../../assets/image/bolso7.jpg",
-        "name":"✨💛LOVE PERLAS💜✨",
+        "name":"✨LOVE PERLAS💜",
         "category": "Bolsos",
-        "description": "CAJITA MERRY",
+        "description": [    
+            "💛 Material sintético",
+            "💜 Correa para cruzar",
+            "🤍 Detalles Dorados",
+            "💛 Perlas de lujo",
+            "💜 Variedad de colores"
+        ],
         "price": 39.000,
         "productSize":[
-            "small",
-            "medium",
-            "large"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
         
     },
@@ -334,46 +148,20 @@
         "image":"../../../assets/image/bolso8.jpg",
         "name":"🎀CARRIEL CHANEL 🎀",
         "category": "Bolsos",
-        "description": "CARRIEL CHANEL",
+        "description": [    
+            "🤍 Material sintético",
+            "💗🤍compartimiento interno",
+            "💗🤍Detalles forados",
+            "🤍💗forro interno",
+            "💗🤍placa de lujo",
+            "💗🤍cierre trasero",
+            "🤍 Variedad de colores"
+        ],
         "price": 45.000,
         "productSize":[
-            "small",
-            "medium",
-            "large"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
         
     },
@@ -382,189 +170,77 @@
         "image":"../../../assets/image/bolso9.jpg",
         "name":"Manicartera LV",
         "category": "Bolsos",
-        "description": "CAJY",
+        "description": [    
+            "🤍 Modelo nuevo",
+            "💝material sintético garantizado",
+            "💗🤍 MEDIDAS:",
+            "🤍 Ancho: 23cm",
+            "🤍 Alto: 17cm",
+            "🤍 Variedad de colores"
+        ],
         "price": 49.000,
         "productSize":[
-            "small",
-            "medium",
-            "large"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
-        ]
-        
+            "Lila",
+            "Negro",
+            "Rojo"
+        ]   
     },
     {
         "id":10,
         "image":"../../../assets/image/maleta1.jpg",
         "name":"💖MORRAL KANDY💖",
         "category": "Maletas",
-        "description": "CAJITA MERRY",
+        "description": [    
+            "💗 Material sintético",
+            "✨ Cierres de lujo",
+            "💗 Compartimiento interno",
+            "✨ Forro interno",
+            "💗 Detalles en costura",
+            "✨ Herrajes dorados  ",
+            "💗 Variedad de colores"
+        ],
         "price": 39.000,
         "productSize":[
-            "small",
-            "medium",
-            "large"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Lila",
+            "Negro",
+            "Rojo"
         ]
-        
     },
     {
         "id":11,
         "image":"../../../assets/image/maleta2.jpg",
-        "name":"🖤MORRAL VLZ EJECUTIVO 🖤",
+        "name":"🖤MORRAL VLZ 🖤",
         "category": "Maletas",
-        "description": "🖤MORRAL VLZ EJECUTIVO 🖤",
-        "price": 39.000,
-        "productSize":[
-            "small",
-            "medium",
-            "large"
+        "description": [    
+            "🖤 Material sintético ",
+            "🤍 Doble compartimiento ",
+            "🖤 Separadores internos ",
+            "🤍 Placa metálica ",
+            "🖤 Único tono"
         ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
-        ]
-        
+        "price": 69.000,
+        "productSize":[
+            "Negro"
+        ] 
     },
 {
         "id":12,
         "image":"../../../assets/image/maleta3.jpg",
         "name":"💖MORRAL KANDY💖",
         "category": "Maletas",
-        "description": "💖MORRAL KANDY💖",
+        "description": [    
+            "💗 Material sintético",
+            "✨ Cierres de lujo",
+            "💗 Compartimiento interno",
+            "✨ Forro interno",
+            "💗 Detalles en costura",
+            "✨ Herrajes dorados  ",
+            "💗 Variedad de colores"
+        ],
         "price": 60.000,
         "productSize":[
-            "30 ml",
-            "150 ml"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Negro",
+            "Rojo"
         ]
     },
 {
@@ -572,91 +248,40 @@
         "image":"../../../assets/image/maleta4.jpg",
         "name":"💖MORRAL KANDY💖",
         "category": "Maletas",
-        "description": "💖MORRAL KANDY💖",
+        "description": [    
+            "💗 Material sintético",
+            "✨ Cierres de lujo",
+            "💗 Compartimiento interno",
+            "✨ Forro interno",
+            "💗 Detalles en costura",
+            "✨ Herrajes dorados  ",
+            "💗 Variedad de colores"
+        ],
         "price": 60.000,
         "productSize":[
-            "30 ml",
-            "150 ml"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Negro",
+            "Rojo"
         ]
     },
 {
         "id":14,
         "image":"../../../assets/image/combo1.jpg",
-        "name":"Combo Totto",
+        "name":"COMBO TOTTO ",
         "category": "Maletas",
-        "description": "Ut eniercitation ullamco laboris...",
+        "description": [    
+            "📍Material lona ",
+            "📒 Tres compartimientos ",
+            "📐 Manijas achochadas",
+            "✂️ Lonchería térmica ",
+            "📚 Cartuchera doble compartimiento ",
+            "🖌️ Detalles en goma",
+            "🗂️ Variedad de combinaciones"
+        ],
         "price": 115.000,
         "productSize":[
-            "30 ml",
-            "150 ml"
-        ],
-        "productDetails":[
-            {
-                "title":"Product description",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ],
-                "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi"
-            },
-            {
-                "title":"Additional Info",
-                "list":[
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar."
-                ],
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas."
-            },
-            {
-                
-                "title":"Shipping",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit lobortis arcu enim urna adipiscing praesent velit viverra sit semper lorem eu cursus vel hendrerit elementum morbi curabitur etiam nibh justo, lorem aliquet donec sed sit mi dignissim at ante massa mattis egestas.",
-                "list":[
-                    "Neque sodales ut etiam sit amet nisl purus non tellus orci ac auctor.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potent",
-                    "Mauris commodo quis imperdiet massa tincidunt nunc pulvinar.",
-                    "Adipiscing elit ut aliquam purus sit amet viverra suspendisse potenti."
-                ]
-            }
+            "Negro",
+            "Morado",
+            "Rojo"
         ]
     }
 ]

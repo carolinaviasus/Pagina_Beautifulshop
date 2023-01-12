@@ -3,7 +3,6 @@
 .details-container{
     display: flex;
     flex-direction: column;
-    
     width: 100%;
     padding: $detail-padding;
     box-sizing: border-box;
@@ -11,7 +10,7 @@
     .product-name{
         display: flex;
         justify-content: center;
-        font-size: $font-size58;
+        font-size: $font-size54;
         width: 100%;
         margin: 0 auto;
         max-width: 1000px;
@@ -44,9 +43,9 @@
         }
           
         .btn-add-cart{
-            max-width: 300px;
-            margin: 1rem 0 0 0;
-            padding: 1rem 1rem;
+            max-width: 230px;
+            margin: 1rem ;
+            padding: 1rem ;
             border: none;
             outline: 0;
             background-color: $add-cart-detail;
@@ -89,6 +88,9 @@
     }
 
     .product-description{
+        display: flex;
+        align-items: center;
+        text-align: center;
         font-size: $font-size18;
         max-width: 1300px;
         width: 100%;
@@ -96,6 +98,7 @@
         color: #5f5d5d;
         margin: 0 auto;
         font-weight: $font-weig-500;
+        padding: 10px 0px 100px 0px;
     }
     .tittle-descrip{
         font-size: $font-size54;

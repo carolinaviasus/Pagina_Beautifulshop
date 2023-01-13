@@ -47,29 +47,18 @@ This folder contains all the components present.
 
 ### header
 In this folder is the header of the page with the links to the different pages of the project
-<p align=center>
-<img src="https://i.postimg.cc/pLTJMJb9/home.png">
-</p>
-
 ### product-card
 In this folder is the product card that is shown in the products section of the page shown
-<p align=center>
-<img src="https://i.postimg.cc/pLTJMJb9/home.png">
-</p>
 
 
 
 ### Pages
 <p align=center>
-<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+<img src="https://i.postimg.cc/tTRbL56x/pag.jpg">
 </p>
 
 ### cart-page
 Here is the shopping cart section where you will find all the selected products
-<p align=center>
-<img src="https://i.postimg.cc/pLTJMJb9/home.png">
-</p>
-
 ### Home
 It is the page with which the user is welcomed
 ### not-found
@@ -83,11 +72,19 @@ All products that exist in inventory are observed
 ### Services
 The service is that of the shopping cart where you can delete, add items to the purchase
 <p align=center>
-<img src="https://i.postimg.cc/VLGmNmT7/code.png">
+<img src="https://i.postimg.cc/90qnSRL9/ser.jpg">
 </p>
 
 ### Shared
 There is information about the car where these are used to do addition and multiplication operations for the final prices.
+<p align=center>
+<img src="https://i.postimg.cc/9M42mfxm/sha.jpg">
+</p>
+
+<p align=center>
+<img src="https://i.postimg.cc/Fzj2zk04/tod.jpg">
+</p>
+
 
 ### routin.module
 there are the routes to which it goes when a click is eventuated
@@ -97,7 +94,7 @@ This is the structure in which it is shown on the page
 
 ### assets
 <p align=center>
-<img src="https://i.postimg.cc/VLGmNmT7/code.png">
+<img src="https://i.postimg.cc/4yZW8LHD/ass.jpg">
 </p>
 
 ### image

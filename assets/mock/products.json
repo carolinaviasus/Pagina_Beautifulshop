@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "image":"../../../assets/image/bolso1.jpg",
+        "image":"assets/image/bolso1.jpg",
         "name":"CAJITA MERRY 💖",
         "category": "Bolsos",
         "description": [
@@ -24,7 +24,7 @@
     },
     {
         "id":2,
-        "image":"../../../assets/image/bolso2.jpg",
+        "image":"assets/image/bolso2.jpg",
         "name":"🌸CAJITA ANEU🌸",
         "category": "Bolsos",
         "description": [
@@ -44,7 +44,7 @@
     },
     {
         "id":3,
-        "image":"../../../assets/image/bolso3.jpg",
+        "image":"assets/image/bolso3.jpg",
         "name":"💛CAJITA VENETUS💛",
         "category": "Bolsos",
         "description": [
@@ -65,7 +65,7 @@
     },
     {
         "id":4,
-        "image":"../../../assets/image/bolso4.jpg",
+        "image":"assets/image/bolso4.jpg",
         "name":"💙CARTERA NIKOL-KORS",
         "category": "Bolsos",
         "description": [
@@ -85,7 +85,7 @@
     },
     {
         "id":5,
-        "image":"../../../assets/image/bolso5.jpg",
+        "image":"assets/image/bolso5.jpg",
         "name":"CAJITA MARIETTA",
         "category":"Bolsos",
         "description": [    
@@ -105,7 +105,7 @@
     },
     {
         "id":6,
-        "image":"../../../assets/image/bolso6.jpg",
+        "image":"assets/image/bolso6.jpg",
         "name":"💚CAJITA MERRY💚",
         "category": "Bolsos",
         "description": [    
@@ -125,7 +125,7 @@
     },
     {
         "id":7,
-        "image":"../../../assets/image/bolso7.jpg",
+        "image":"assets/image/bolso7.jpg",
         "name":"✨LOVE PERLAS💜",
         "category": "Bolsos",
         "description": [    
@@ -145,7 +145,7 @@
     },
     {
         "id":8,
-        "image":"../../../assets/image/bolso8.jpg",
+        "image":"assets/image/bolso8.jpg",
         "name":"🎀CARRIEL CHANEL 🎀",
         "category": "Bolsos",
         "description": [    
@@ -167,7 +167,7 @@
     },
     {
         "id":9,
-        "image":"../../../assets/image/bolso9.jpg",
+        "image":"assets/image/bolso9.jpg",
         "name":"Manicartera LV",
         "category": "Bolsos",
         "description": [    
@@ -187,7 +187,7 @@
     },
     {
         "id":10,
-        "image":"../../../assets/image/maleta1.jpg",
+        "image":"assets/image/maleta1.jpg",
         "name":"💖MORRAL KANDY💖",
         "category": "Maletas",
         "description": [    
@@ -208,7 +208,7 @@
     },
     {
         "id":11,
-        "image":"../../../assets/image/maleta2.jpg",
+        "image":"assets/image/maleta2.jpg",
         "name":"🖤MORRAL VLZ 🖤",
         "category": "Maletas",
         "description": [    
@@ -225,7 +225,7 @@
     },
 {
         "id":12,
-        "image":"../../../assets/image/maleta3.jpg",
+        "image":"assets/image/maleta3.jpg",
         "name":"💖MORRAL KANDY💖",
         "category": "Maletas",
         "description": [    
@@ -245,7 +245,7 @@
     },
 {
         "id":13,
-        "image":"../../../assets/image/maleta4.jpg",
+        "image":"assets/image/maleta4.jpg",
         "name":"💖MORRAL KANDY💖",
         "category": "Maletas",
         "description": [    
@@ -265,7 +265,7 @@
     },
 {
         "id":14,
-        "image":"../../../assets/image/combo1.jpg",
+        "image":"assets/image/combo1.jpg",
         "name":"COMBO TOTTO ",
         "category": "Maletas",
         "description": [    

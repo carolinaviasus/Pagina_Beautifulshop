@@ -28,3 +28,75 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## What about this project?
+Beautiful-shop is a business that sells handbags and backpacks for men and women, located in Sogamoso-Boyacá, which seeks that its customers have the option of choosing their own products, in a simple and comfortable way.
+## Folder structure
+
+###Components
+This folder contains all the components present.
+<p align=center>
+<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+</p>
+### Category-tab
+<p align=center>
+<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+</p>
+###header
+In this folder is the header of the page with the links to the different pages of the project
+<p align=center>
+<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+</p>
+###product-card
+In this folder is the product card that is shown in the products section of the page shown
+<p align=center>
+<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+</p>
+
+
+###Pages
+<p align=center>
+<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+</p>
+###cart-page
+Here is the shopping cart section where you will find all the selected products
+<p align=center>
+<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+</p>
+###Home
+It is the page with which the user is welcomed
+###not-found
+There is the warning sign that no results are found or that there are no items in the shopping cart
+###product-view
+Here are the product details with larger images and the product description
+###products
+All products that exist in inventory are observed
+
+###Services
+The service is that of the shopping cart where you can delete, add items to the purchase
+<p align=center>
+<img src="https://i.postimg.cc/VLGmNmT7/code.png">
+</p>
+
+###Shared
+There is information about the car where these are used to do addition and multiplication operations for the final prices.
+
+###routin.module
+there are the routes to which it goes when a click is eventuated
+###component.html
+This is the structure in which it is shown on the page
+
+###assets
+<p align=center>
+<img src="https://i.postimg.cc/VLGmNmT7/code.png">
+</p>
+###image
+All the images used in this project are found
+### mock
+api consumed
+
+###themes
+general project styles
+
+## Interface
+In OOP, the properties and methods that an object exposes to the outside world are called public interfaces. In this case, these are the properties defined for the products:

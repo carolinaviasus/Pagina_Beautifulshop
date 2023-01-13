@@ -69,13 +69,13 @@ Here are the product details with larger images and the product description
 All products that exist in inventory are observed
 
 
-### Services
+## Services
 The service is that of the shopping cart where you can delete, add items to the purchase
 <p align=center>
 <img src="https://i.postimg.cc/90qnSRL9/ser.jpg">
 </p>
 
-### Shared
+## Shared
 There is information about the car where these are used to do addition and multiplication operations for the final prices.
 <p align=center>
 <img src="https://i.postimg.cc/9M42mfxm/sha.jpg">
@@ -87,7 +87,7 @@ there are the routes to which it goes when a click is eventuated
 This is the structure in which it is shown on the page
 
 
-### assets
+## assets
 <p align=center>
 <img src="https://i.postimg.cc/4yZW8LHD/ass.jpg">
 </p>
@@ -97,7 +97,7 @@ All the images used in this project are found
 ### mock
 api consumed
 
-### themes
+## themes
 general project styles
 
 ## Interface

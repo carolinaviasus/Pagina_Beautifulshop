@@ -28,10 +28,6 @@
             font-weight: 700;
             color: #1a202c;          
         }
-        // .productDescription{
-        //     font-size: $font-size18;
-        //     color: $greyish-color;
-        // }
         .bottom{
             width: 100%;
             height: 45px;
@@ -86,6 +82,74 @@
             font-size: $font-size28;
             font-weight: 800;
             color: $price;            
+        }
+    }
+}
+
+@media (max-width: 800px) {
+    .product-card{
+        box-shadow: 1px 10px 10px 2px rgba(0, 0, 0, 0.1);
+        border: 6px solid transparent;
+      
+    
+        img{
+           width: 80%;
+           height: 110px; 
+           object-fit: cover;
+           border-radius: 1rem;
+        }
+        
+        .card-content{
+            margin-top: 12px;
+            
+    
+            .productName{
+                font-size: $font-size12;
+                color: $blackish-color;
+                font-weight: 400;
+                color: #1a202c;          
+            }
+            .bottom{
+                width: 100%;
+                height: 45px;
+                display: grid;
+                grid-template-columns: 2fr 1fr;
+                gap: 1rem 2rem;
+    
+                .btn{
+                    border: none;
+                    outline: 0;
+                    cursor: pointer;
+                    border-radius: 5px;
+                }      
+                button{
+                    background-color: $boton-car;
+                    max-width: 250px;
+                    width: 100%;
+                    margin: 0 auto;
+                    font-size: $font-size12;
+                    color: white;
+                    font-weight: 400;
+                }
+                div{
+                    background-color: $boton-vermas;
+                    display: grid;
+                    align-items: center;
+                    text-align: center;
+                    margin-left: -2rem;
+                    border-radius: 5px;
+                    color: white;
+                    font-weight: 700;
+                    font-size: $font-size12;
+                    cursor: pointer;
+                }   
+            }
+              
+            .productPrice{
+                font-size: $font-size12;
+                font-weight: 500;
+                color: $price;            
+            }
         }
     }
 }

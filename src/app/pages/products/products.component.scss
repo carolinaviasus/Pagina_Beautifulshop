@@ -40,3 +40,35 @@
         }
     }
 }
+@media (max-width: 800px ) {
+    .product-container{
+        width: auto;
+       
+        .product-header-section{
+            text-align: center;
+            width: 70%;
+            .title{
+                font-size: $font-size18;
+            }
+    
+            .category-section{
+                display: flex;
+                flex-wrap: nowrap;
+                justify-content: flex-end;
+                column-gap: $main-padding;
+            }
+        }
+    
+        .products-section{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: 100%;
+            margin-top: 48px;
+            gap: 23px;
+            *{
+                width: calc(calc(100%/2) - (23px *2))
+            }
+        }
+    }
+}

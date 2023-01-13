@@ -35,57 +35,53 @@
       }
     }
     @media (max-width: 1118px) {
-        a{
-          font-size: $font-size48;
-        }
+      a {
+        font-size: $font-size48;
+      }
     }
     @media (max-width: 1032px) {
-        a{
-          font-size: $font-size36;
-        }
+      a {
+        font-size: $font-size36;
+      }
     }
     @media (max-width: 901px) {
-        a{
-          font-size: $font-size28;
-        }
+      a {
+        font-size: $font-size28;
+      }
     }
     @media (max-width: 805px) {
-        a{
-          font-size: $font-size16;
-        }
+      a {
+        font-size: $font-size16;
+      }
     }
   }
- 
 }
 @media (max-width: 805px) {
-    .container {
-        padding: 0px;
-        height: 100px;
-        .log{
-            height: 80%;  
-            display: flex;
-            cursor: pointer;
-            margin-left: 50px;
-            width: 20%;
-        }       
-      }
+  .container {
+    padding: 0px;
+    height: 100px;
+    .log {
+      height: 50%;
+      margin-left: 20px;
+      width: 5%;
+    }
+  }
 }
 @media (max-width: 393px) {
-    .container {
-        padding: 0px;
-        height: 100px;
-        .log{
-            height: 50%;  
-            display: flex;
-            cursor: pointer;
-            margin-left: 0px;
-            width: 10%;
-        }  
-        a{
-            font-size: $font-size12;
-        }     
+  .container {
+    padding: 0px;
+    height: 96px;
+    .log {
+      height: 50%;
+      margin-left: 20px;
+      width: 5%;
+    }
+    nav {
+      margin-right: 5px;
+      padding: 0px 5px 0px 5px;
+      a {
+        font-size: $font-size12;
       }
+    }
+  }
 }
-
-
-

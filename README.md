@@ -32,9 +32,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## What about this project?
 Beautiful-shop is a business that sells handbags and backpacks for men and women, located in Sogamoso-Boyacá, which seeks that its customers have the option of choosing their own products, in a simple and comfortable way.
 
-## Folder structure
+# Folder structure
 
-### Components
+## Components
 This folder contains all the components present.
 <p align=center>
 <img src="https://i.postimg.cc/xjyjpXbH/com.jpg">
@@ -52,7 +52,7 @@ In this folder is the product card that is shown in the products section of the 
 
 
 
-### Pages
+## Pages
 <p align=center>
 <img src="https://i.postimg.cc/tTRbL56x/pag.jpg">
 </p>
@@ -80,11 +80,6 @@ There is information about the car where these are used to do addition and multi
 <p align=center>
 <img src="https://i.postimg.cc/9M42mfxm/sha.jpg">
 </p>
-
-<p align=center>
-<img src="https://i.postimg.cc/Fzj2zk04/tod.jpg">
-</p>
-
 
 ### routin.module
 there are the routes to which it goes when a click is eventuated

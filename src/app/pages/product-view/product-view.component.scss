@@ -106,5 +106,9 @@
         font-weight: $font-weig-700;
         text-align: center;
     }
+
+    // @include media-up(tablet){
+    //     background-color: aqua;
+    // }
   
 }

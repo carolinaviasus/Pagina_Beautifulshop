@@ -1,3 +1,4 @@
+@import '/src/styles.scss';
 // colors
 $header-color: #6A6C69;
 $header-letter: #c7e1e3;
@@ -25,15 +26,17 @@ $add-cart-detail: #95FEBC;
 
 
 // font sizing
-$font-size54 :54px;
+$font-size12 :12px;
 $font-size16 :16px;
 $font-size18 :18px;
-$font-size20 :22px;
+$font-size20 :20px;
 $font-size22 :22px;
 $font-size24:24px;
 $font-size28:28px;
 $font-size36:36px;
-$font-size58: 54px;
+$font-size48 :48px;
+$font-size54 :54px;
+
 $font-size58: 58px;
 
 //font-weik
@@ -50,3 +53,15 @@ $detail-center:0rem 20rem 0 20rem;
 //box shadow
 
 $box-shadow : 0px 4px 16px 0 rgb( 20 20 22/4%);
+
+$breakpoints: (
+  phone: 320px,
+  tablet: 768px,
+  desktop: 1024px
+) ;
+
+@mixin media-up($breakpoint){
+    @media screen and (min-width: map-get($breakpoints, $breakpoint)) {
+        @content;        
+    }
+}

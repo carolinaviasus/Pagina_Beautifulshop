@@ -2,6 +2,7 @@
   "homepage":"https://carolinaviasus.github.io/Pagina_Beautifulshop/",
   "name": "beautifulshop",
   "version": "0.0.0",
+  "private": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,7 +12,7 @@
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build"
   },
-  "private": true,
+  
   "dependencies": {
     "@angular/animations": "^15.0.0",
     "@angular/common": "^15.0.0",

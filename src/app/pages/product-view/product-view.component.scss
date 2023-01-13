@@ -1,114 +1,186 @@
-@import '/src/themes/themes.scss';
+@import "/src/themes/themes.scss";
 
-.details-container{
+.details-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: $detail-padding;
+  box-sizing: border-box;
+
+  .product-name {
+    display: flex;
+    justify-content: center;
+    font-size: $font-size54;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1000px;
+    font-family: Roboto;
+    color: $title-name;
+    font-weight: $font-weig-tittle;
+  }
+  .details-center {
+    padding: $detail-center;
+    .product-price {
+      font-size: 2.5rem;
+      font-weight: $font-weig-700;
+      color: $boton-car;
+    }
+
+    .picture-product {
+      position: relative;
+      height: auto;
+      min-height: 300px;
+      object-fit: contain;
+      margin-top: -7rem;
+      z-index: -1;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    .btn-add-cart {
+      max-width: 230px;
+      margin: 1rem;
+      padding: 1rem;
+      border: none;
+      outline: 0;
+      background-color: $add-cart-detail;
+      font-size: 1.6rem;
+      color: $black-color;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      &:hover {
+        cursor: pointer;
+        background: $secondary-grey;
+        color: $blackish-color;
+        transform: translateY(5px);
+        transition: 1s all;
+      }
+    }
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem 1rem;
+    max-width: 350px;
+    select {
+      border: none;
+      outline: none;
+      font-size: 2rem;
+      background-color: $boton-vermas;
+      color: white;
+      cursor: pointer;
+    }
+    .selection {
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      font-size: 2rem;
+      font-weight: 600;
+      color: white;
+    }
+  }
+
+  .product-description {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: $font-size18;
+    max-width: 1300px;
+    width: 100%;
+    letter-spacing: 1px;
+    color: #5f5d5d;
+    margin: 0 auto;
+    font-weight: $font-weig-500;
+    padding: 10px 0px 100px 0px;
+  }
+  .tittle-descrip {
+    font-size: $font-size54;
+    color: $header-color;
+    font-weight: $font-weig-700;
+    text-align: center;
+  }
+}
+@media (max-width: 1000px) {
+  .details-container {
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding: $detail-padding;
+    padding: 30px;
     box-sizing: border-box;
 
-    .product-name{
-        display: flex;
-        justify-content: center;
-        font-size: $font-size54;
-        width: 100%;
-        margin: 0 auto;
-        max-width: 1000px;
-        font-family:Roboto;
-        color: $title-name;
-        font-weight: $font-weig-tittle;
+    .product-name {
+      display: flex;
+      justify-content: center;
+      font-size: $font-size12;
+      width: 80%;
+      margin: 0;
+      max-width: auto;
     }
-    .details-center{
-        padding: $detail-center;
-        .product-price{
-            font-size: 2.5rem;
-            font-weight: $font-weig-700;
-            color: $boton-car
+    .details-center {
+      padding: 10px 0px 10px 0px;
+      .product-price {
+        font-size: 12px;
+        font-weight: 500;
+      }
+
+      .picture-product {
+        position: relative;
+        height: auto;
+        min-height: 300px;
+        object-fit: contain;
+        margin-top: -7rem;
+        z-index: -1;
+        padding: 60px 0px 10px 0px;
+        img {
+
+          width: 60%;
+          height: 60%;
         }
-    
-        .picture-product{
-            position: relative;
-            height: auto;
-            min-height: 300px;
-            object-fit: contain;
-            margin-top:  -7rem;
-            z-index: -1;
-            img{
-                
-                width: 100%;
-                height: 100%;
-                
-                
-            }
-        }
-          
-        .btn-add-cart{
-            max-width: 230px;
-            margin: 1rem ;
-            padding: 1rem ;
-            border: none;
-            outline: 0;
-            background-color: $add-cart-detail;
-            font-size: 1.6rem;
-            color: $black-color;
-            font-weight: 600;
-            border-radius: 8px;
-            cursor: pointer;
-            &:hover{
-                cursor: pointer;
-                background: $secondary-grey;
-                color: $blackish-color;
-                transform: translateY(5px);
-                transition: 1s all;
-            }
+      }
+
+      .btn-add-cart {
+        max-width: 100px;
+        margin: 10px;
+        padding: 10px;
+        font-size: $font-size12;
+        font-weight: 400;
+      }
     }
-    
-    }
-    .grid{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 2rem 1rem;
-        max-width: 350px;
-        select{
-            border: none;
-            outline: none;
-            font-size: 2rem;
-            background-color: $boton-vermas;
-            color: white;
-            cursor: pointer;
-        }
-        .selection{
-            padding: 1rem 2rem;
-            border-radius: 8px;
-            font-size: 2rem;
-            font-weight: 600;
-            color: white;
-        }
-      
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem 1rem;
+      max-width: 100px;
+      select {
+        font-size: 12px;
+      }
+      .selection {
+        padding: 10px ;
+        font-size: 12px;
+        font-weight: 600;
+      }
     }
 
-    .product-description{
-        display: flex;
-        align-items: center;
-        text-align: center;
-        font-size: $font-size18;
-        max-width: 1300px;
-        width: 100%;
-        letter-spacing: 1px;
-        color: #5f5d5d;
-        margin: 0 auto;
-        font-weight: $font-weig-500;
-        padding: 10px 0px 100px 0px;
+    .product-description {
+      display: flex;
+      align-items: center;
+      text-align: center;
+      font-size: $font-size12;
+      max-width: auto;
+      width: 100%;
+      letter-spacing: 1px;
+      color: #5f5d5d;
+      margin: 20px ;
+      font-weight: $font-weig-500;
+      padding: 10px 0px 10px 0px;
     }
-    .tittle-descrip{
-        font-size: $font-size54;
-        color: $header-color;
-        font-weight: $font-weig-700;
-        text-align: center;
+    .tittle-descrip {
+      font-size: $font-size12;
+      color: $header-color;
+      font-weight: $font-weig-700;
+      text-align: center;
     }
-
-    // @include media-up(tablet){
-    //     background-color: aqua;
-    // }
-  
+  }
 }

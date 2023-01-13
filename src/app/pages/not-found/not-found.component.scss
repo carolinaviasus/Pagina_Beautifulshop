@@ -29,3 +29,11 @@ div {
     }
   }
 }
+@media (max-width: 800px ) {
+  div {
+    font-size: $font-size16;
+    a {
+      font-size: $font-size16;
+    }
+  }
+}

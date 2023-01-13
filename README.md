@@ -37,7 +37,7 @@ Beautiful-shop is a business that sells handbags and backpacks for men and women
 ### Components
 This folder contains all the components present.
 <p align=center>
-<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+<img src="https://i.postimg.cc/xjyjpXbH/com.jpg">
 </p>
 
 ### Category-tab

@@ -42,7 +42,7 @@ This folder contains all the components present.
 
 ### Category-tab
 <p align=center>
-<img src="https://i.postimg.cc/pLTJMJb9/home.png">
+<img src="https://i.postimg.cc/J4MNSHYW/ct.jpg">
 </p>
 
 ### header

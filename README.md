@@ -1,4 +1,7 @@
 # Beautifulshop
+<p align = center>
+<img src="https://i.postimg.cc/k4ctNfQY/logo-ti.jpg">
+</p>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
